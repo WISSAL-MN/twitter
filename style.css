@@ -1,0 +1,39 @@
+
+img{
+    position: relative;
+}
+body{
+    text-align: center;
+    font-family: helvetica;
+    margin: 20px;
+
+}
+input{
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top:20px;
+  margin-bottom: 20px;
+   height: 100%;
+   width: 13%;
+   text-align: center;
+   border-radius: 5px;
+   border: 2px solid #318ce7;
+}
+a{
+    color: black;
+    size: 1em;
+    display: inline-block;
+    color:  #2fbec5;
+    margin: 15px;
+}
+label{
+    border-radius: 50px;
+     border: 27px solid #318ce7;
+    background-color:#318ce7;
+    text-align: center;
+    width: 500%;
+    height: 80%;
+    color:  white;
+ padding-left: 100px;
+ padding-right: 100px;
+}
